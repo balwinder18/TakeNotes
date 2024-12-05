@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Take Note easy",
+    "version": "1.0.0",
+    "description": "Take Note easy",
+    "action": {
+      "default_popup": "index.html"
+    },
+    "permissions": []
+  }
